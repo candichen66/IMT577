@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IMT577", "IMT577\IMT577.dtproj", "{BE89DC2C-34B8-4BA9-9E47-B6CFB64A9BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE89DC2C-34B8-4BA9-9E47-B6CFB64A9BCC}.Development|Default.ActiveCfg = Development
+		{BE89DC2C-34B8-4BA9-9E47-B6CFB64A9BCC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA7DBA9E-CA35-487A-8A42-7A6F26CCE441}
+	EndGlobalSection
+EndGlobal
